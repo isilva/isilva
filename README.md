@@ -1,6 +1,6 @@
 # Hi, I'm Isaac 👋🏾
 
-<img src="https://github.com/isilva/isilva/blob/master/header-image-1.png">
+<img src="https://github.com/isilva/isilva/blob/master/header-image.png">
 I'm a Consulting Engineer working in Santiago, Chile. 👨🏾‍💻
 
 ### 📫 Reach me 
